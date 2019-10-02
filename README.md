@@ -22,7 +22,7 @@ Self Driving Car Using Covolutinal Neural Networks Via Using NVIDIA Model Archit
 Type the following commands in your terminal:
 ```bash
 cd path/to/directory/
-git clone https://github.com/namananand996/Self_drive_car_CNN_model
+git clone https://github.com/suraj038/Self_drive_car_CNN_model
 cd Self_drive_car_CNN_model/
 ```
 
